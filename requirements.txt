@@ -1,0 +1,9 @@
+streamlit
+feedparser
+requests
+pandas
+python-dotenv
+newspaper3k
+beautifulsoup4
+lxml
+openai
