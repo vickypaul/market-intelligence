@@ -1,1 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
 .env
+
+# Data files
+data/raw_news/*
+data/processed_news/*
+data/reports/*
+
+# Keep folders
+!data/raw_news/.gitkeep
+!data/processed_news/.gitkeep
+!data/reports/.gitkeep
+
+# Streamlit
+.streamlit/
